@@ -15,6 +15,6 @@ o [nazwa] [skala] [pozycja] [kolor]
 
 - pozycja oraz wektory powinny być zapisane jako trzy liczby rozdzielone spacjami [x y z] bez nawiasu
 
--rozdzielczość obrazu oraz nazwy plików są ustawiane w pliku main.cpp
+- rozdzielczość obrazu oraz nazwy plików są ustawiane w pliku main.cpp
 
--ilość światła w cieniu jest ustalana na początku pliku raytracer.cpp
+- ilość światła w cieniu jest ustalana na początku pliku raytracer.cpp
