@@ -1,0 +1,18 @@
+Kamerka:
+c [pozycja] [wektor do przodu] [wektor w górê] [k¹t pion] [k¹t poziom]
+
+Œwiat³o:
+l [pozycja] [intensywnoœæ] [max. zasiêg] [kolor]
+
+Kula:
+s [pozycja] [promieñ] [kolor]
+
+Obj:
+o [nazwa] [skala] [pozycja] [kolor]
+
+
+- pozycja oraz wektory powinny byæ zapisane jako trzy liczby rozdzielone spacjami [x y z] bez nawiasu
+
+-rozdzielczoœæ obrazu oraz nazwy plików s¹ ustawiane w pliku main.cpp
+
+-iloœæ œwiat³a w cieniu jest ustalana na pocz¹tku pliku raytracer.cpp
